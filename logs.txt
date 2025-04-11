@@ -1,0 +1,15 @@
+*   9fb7e61 (HEAD -> master, origin/master, origin/HEAD) Merge branch 'master' of https://github.com/andrejka5/SI_2025_lab1_233121
+|\
+| *   e3f476e Merge pull request #13 from andrejka5/7-filter-tasks-by-category
+| |\
+| | * 769bde5 (origin/7-filter-tasks-by-category, 7-filter-tasks-by-category) Filter tasks by category
+| * |   49cbb4e Merge pull request #12 from andrejka5/1-remove-a-task-by-name
+| |\ \
+| | |/
+| |/|
+| | * cf8b716 (origin/1-remove-a-task-by-name, 1-remove-a-task-by-name) Remove a task by name
+| |/
+* / e3ad761 (origin/9-count-tasks-per-category, 9-count-tasks-per-category) Count tasks per category
+|/
+* 50bd0c6 Add starter code
+* 7605122 Initial commit
